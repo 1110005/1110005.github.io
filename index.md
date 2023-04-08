@@ -11,7 +11,10 @@ the Earths desteny is in your hand!!
 
 Features
 --------
-
+-the aliens 
+-
+-
+-
 
 Intresting code
 ---------------
@@ -35,8 +38,6 @@ Resources
 ---------
 -Python/Pycat
 -[Kenny Assets](https://www.kenney.nl/assets)
--
--
 
 
 
